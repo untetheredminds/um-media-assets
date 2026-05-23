@@ -10,3 +10,6 @@ Public asset hosting for untetheredmindsmedia.com. Files here are pulled into th
 
 ## /brand-system-sequence/
 61 frames (chrome_0001.jpg through chrome_0061.jpg) for the scroll-driven hero on /brand-system. Liquid black chrome with amber rim light. 1080px vertical.
+
+## /homepage-morph-sequence/
+119 frames (home_0001.jpg through home_0119.jpg) for the scroll-driven hero on the homepage (/). Continuous morph: Sony FX3 → DJI Mavic 3 Cine → Space Black MacBook Pro with UM Media logo. 1920px horizontal. Frames 1-59 are the FX3→Mavic transition; frames 60-119 are the Mavic→MacBook transition.
